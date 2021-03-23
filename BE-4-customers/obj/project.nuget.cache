@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EHWGjKxG298lZMJJKRILKPaiioEtHzhsX3GxXqeARuWGSUIGFKHcwHm38RJnP4bBVKoPWM6TutFbZ38G8QcTEg==",
+  "dgSpecHash": "WXr2S4GZCC6tHPdqJ7pQVmYytZonS3P1a86xpwvmsO+rAEOZ6dz/KCkfMGtCFuoSB6NyASgsI1mIS3OwI2bBsw==",
   "success": true,
-  "projectFilePath": "Q:\\Github\\BE-4-customers\\BE-4-customers.csproj",
+  "projectFilePath": "Q:\\Github\\4-BE-homework\\BE-4-customers\\BE-4-customers.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\P-L\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\P-L\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.12\\microsoft.entityframeworkcore.3.1.12.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.12\\microsoft.entityframeworkcore.abstractions.3.1.12.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.12\\microsoft.entityframeworkcore.analyzers.3.1.12.nupkg.sha512",
@@ -23,6 +24,9 @@
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.12\\microsoft.extensions.logging.abstractions.3.1.12.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.extensions.options\\3.1.12\\microsoft.extensions.options.3.1.12.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.12\\microsoft.extensions.primitives.3.1.12.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.9.0\\microsoft.identitymodel.jsonwebtokens.6.9.0.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\microsoft.identitymodel.logging\\6.9.0\\microsoft.identitymodel.logging.6.9.0.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.9.0\\microsoft.identitymodel.tokens.6.9.0.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\mysqlconnector\\0.61.0\\mysqlconnector.0.61.0.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
@@ -34,7 +38,10 @@
     "C:\\Users\\P-L\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\P-L\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\P-L\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.9.0\\system.identitymodel.tokens.jwt.6.9.0.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\P-L\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

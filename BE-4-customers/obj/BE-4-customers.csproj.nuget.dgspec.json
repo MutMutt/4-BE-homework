@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Q:\\Github\\BE-4-customers\\BE-4-customers.csproj": {}
+    "Q:\\Github\\4-BE-homework\\BE-4-customers\\BE-4-customers.csproj": {}
   },
   "projects": {
-    "Q:\\Github\\BE-4-customers\\BE-4-customers.csproj": {
+    "Q:\\Github\\4-BE-homework\\BE-4-customers\\BE-4-customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Q:\\Github\\BE-4-customers\\BE-4-customers.csproj",
+        "projectUniqueName": "Q:\\Github\\4-BE-homework\\BE-4-customers\\BE-4-customers.csproj",
         "projectName": "BE-4-customers",
-        "projectPath": "Q:\\Github\\BE-4-customers\\BE-4-customers.csproj",
+        "projectPath": "Q:\\Github\\4-BE-homework\\BE-4-customers\\BE-4-customers.csproj",
         "packagesPath": "C:\\Users\\P-L\\.nuget\\packages\\",
-        "outputPath": "Q:\\Github\\BE-4-customers\\obj\\",
+        "outputPath": "Q:\\Github\\4-BE-homework\\BE-4-customers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\P-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.12, )"
@@ -51,6 +55,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.9.0, )"
             }
           },
           "imports": [
